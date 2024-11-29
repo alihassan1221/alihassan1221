@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile!
 
-<!--
-**alihassan1221/alihassan1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** with experience in building scalable and efficient applications. I have a strong focus on creating impactful solutions and enjoy working on modern web and mobile technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Technologies
+
+### 💻 Web Development
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express
+- **APIs:** REST APIs, Strapi CMS
+- **Database:** SQL, MongoDB
+- **Cloud Services:** AWS (S3, SDK)
+- **Version Control:** Git, GitHub
+
+### 📱 Mobile Development
+- React Native (cross-platform apps)
+- Capacitor (React apps on iOS)
+
+### ⚙️ Tools & Other Tech
+- **Deployment:** Docker, Vercel, Netlify
+- **Payment Systems:** Apple Pay integration
+- **Code Testing & Debugging:** Jest, Chrome DevTools
+
+---
+
+## 🏆 Achievements
+- 🥇 **Employee of the Month** (September 2024) at **Focusteck**
+- Successfully migrated projects from AWS SDK v2 to v3
+- Delivered multilingual invoice generation solutions for Arabic and English
+- Enhanced admin dashboard functionalities in Strapi using custom plugins
+
+---
+
+## 📂 Featured Projects
+
+### ⚽ **PlayFootball Me**
+A sports app that tracks player performance with dynamic stats and real-time updates.  
+**Key Features:**  
+- Player profile with stats (goals, assists, red/yellow cards)  
+- Payment integration with Apple Pay  
+- Dynamic PDF generation for invoices in English and Arabic  
+
+[🔗 View Repository](#)
+
+---
+
+## 🌟 Fun Facts
+- ⚡ I enjoy taking on challenging tasks like updating large-scale databases efficiently.
+- 🌏 I’m always keen to learn about technologies that enhance scalability and user experience.
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [Your LinkedIn](#)
+- **Portfolio:** [Your Website](#)
+- **Email:** your.email@example.com
