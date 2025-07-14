@@ -27,7 +27,6 @@ I'm a passionate **Full Stack Developer** with experience in building scalable a
 
 ## 🏆 Achievements
 - 🥇 **Employee of the Month** (September 2024) at **Focusteck**
-- Successfully migrated projects from AWS SDK v2 to v3
 - Delivered multilingual invoice generation solutions for Arabic and English
 - Enhanced admin dashboard functionalities in Strapi using custom plugins
 
@@ -53,6 +52,5 @@ A sports app that tracks player performance with dynamic stats and real-time upd
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn](#)
-- **Portfolio:** [Your Website](#)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/ali-hassan-mughal-2341441ba/(#)
+- **Email:** alihassan.pk.dev@gmail.com
